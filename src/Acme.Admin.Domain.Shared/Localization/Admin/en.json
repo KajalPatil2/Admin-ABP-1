@@ -1,0 +1,20 @@
+{
+  "Culture": "en",
+  "Texts": {
+    "AppName": "Admin",
+    "Menu:Home": "Home",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information visit",
+    "Welcome": "Welcome",
+    "Permission:Books": "Book Management",
+    "Permission:Books.Create": "Creating new books",
+    "Permission:Books.Edit": "Editing books",
+    "Permission:Books.Delete": "Deleting books",
+    "Admin:NegativePrice": "The price cannot be negative.",
+    "Permission:Newspapers": "Newspaper Management",
+    "Permission:Newspapers.Create": "Creating newspapers",
+    "Permission:Newspapers.Edit": "Editing newspapers",
+    "Permission:Newspapers.Delete": "Deleting newspapers",
+    "Admin:DuplicateNewspaperCode": "A newspaper with this code already exists.",
+    "Menu:Newspapers": "Newspapers"
+  }
+}

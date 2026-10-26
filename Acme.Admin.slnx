@@ -1,0 +1,24 @@
+<Solution>
+    <Configurations>
+        <Platform Name="Any CPU" />
+    </Configurations>
+    <Folder Name="/src/">
+        <Project Path="src/Acme.Admin.Domain/Acme.Admin.Domain.csproj" />
+        <Project Path="src/Acme.Admin.Application/Acme.Admin.Application.csproj" />
+        <Project Path="src/Acme.Admin.EntityFrameworkCore/Acme.Admin.EntityFrameworkCore.csproj" />
+        <Project Path="src/Acme.Admin.Web/Acme.Admin.Web.csproj" />
+        <Project Path="src/Acme.Admin.Domain.Shared/Acme.Admin.Domain.Shared.csproj" />
+        <Project Path="src/Acme.Admin.Application.Contracts/Acme.Admin.Application.Contracts.csproj" />
+        <Project Path="src/Acme.Admin.HttpApi/Acme.Admin.HttpApi.csproj" />
+        <Project Path="src/Acme.Admin.HttpApi.Client/Acme.Admin.HttpApi.Client.csproj" />
+        <Project Path="src/Acme.Admin.DbMigrator/Acme.Admin.DbMigrator.csproj" />
+    </Folder>
+    <Folder Name="/test/">
+        <Project Path="test/Acme.Admin.Application.Tests/Acme.Admin.Application.Tests.csproj" />
+        <Project Path="test/Acme.Admin.Web.Tests/Acme.Admin.Web.Tests.csproj" />
+        <Project Path="test/Acme.Admin.EntityFrameworkCore.Tests/Acme.Admin.EntityFrameworkCore.Tests.csproj" />
+        <Project Path="test/Acme.Admin.TestBase/Acme.Admin.TestBase.csproj" />
+        <Project Path="test/Acme.Admin.Domain.Tests/Acme.Admin.Domain.Tests.csproj" />
+        <Project Path="test/Acme.Admin.HttpApi.Client.ConsoleTestApp/Acme.Admin.HttpApi.Client.ConsoleTestApp.csproj" />
+    </Folder>
+</Solution>
